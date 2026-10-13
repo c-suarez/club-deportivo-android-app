@@ -1,4 +1,4 @@
-# 🏟️ SportCenter
+# SportCenter
 
 **Aplicación móvil de gestión integral para clubes deportivos**
 
@@ -7,25 +7,25 @@
 
 ---
 
-## 📋 Descripción
+## Descripción
 
 SportCenter es una aplicación Android diseñada para cubrir las necesidades administrativas diarias de un club deportivo. Centraliza la gestión de socios, actividades, cuotas y comprobantes en una interfaz simple y accesible.
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 | Módulo | Descripción |
 |---|---|
-| 👥 **Socios** | Registro, listado, edición y emisión de carnet |
-| 🚶 **No socios** | Registro de visitas de personas no asociadas al club |
-| 🏋️ **Actividades** | Alta y administración de actividades ofrecidas por el club |
-| 📅 **Vencimientos** | Control de vencimiento de cuotas de los socios |
-| 🧾 **Comprobantes** | Emisión de comprobantes de pago y reimpresión de carnets |
+| **Socios** | Registro, listado, edición y emisión de carnet |
+| **No socios** | Registro de visitas de personas no asociadas al club |
+| **Actividades** | Alta y administración de actividades ofrecidas por el club |
+| **Vencimientos** | Control de vencimiento de cuotas de los socios |
+| **Comprobantes** | Emisión de comprobantes de pago y reimpresión de carnets |
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Lenguaje:** Java
 - **IDE:** Android Studio
@@ -33,7 +33,7 @@ SportCenter es una aplicación Android diseñada para cubrir las necesidades adm
 
 ---
 
-## 🚀 Cómo abrir el proyecto
+## Cómo abrir el proyecto
 
 1. Clonar el repositorio:
    ```bash
@@ -46,7 +46,7 @@ SportCenter es una aplicación Android diseñada para cubrir las necesidades adm
 
 ---
 
-## 👨‍💻 Integrantes del grupo
+## Integrantes del grupo
 
 - Cynthia Sotelo
 - Omar Virili
